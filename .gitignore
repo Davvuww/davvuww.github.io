@@ -1,0 +1,6 @@
+node_modules/
+dist/
+*.tgz
+src/audio/about-you-the-1975.mp3
+src/audio/breeze-in-the-garden-ambient-wind.wav
+src/audio/paper-rustle.aiff
